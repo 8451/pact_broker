@@ -1,0 +1,4 @@
+applications:
+- name: PACT-Broker
+memory: 256M
+buildpack: https://github.com/8451/ruby-buildpack.git
